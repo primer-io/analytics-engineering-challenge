@@ -17,7 +17,7 @@ The challenge for Analytics Engineer is comprised of two parts
 
 ## Technical
 
-1. We have provided 4 csv files - each file represents a table in a database. Your task is to load the files into a database, create 1 table that can be used to answer the questions below, and then write the SQL to answer the questions. In total, you should submit 5 SQL queries.
+2. We have provided 4 csv files - each file represents a table in a database. Your task is to load the files into a database, create 1 table that can be used to answer the questions below, and then write the SQL to answer the questions. In total, you should submit 5 SQL queries.
     - You can use any database that supports SQL that you'd like - I'd suggest [DuckDB](https://duckdb.org/docs/installation/) or [SQLite](https://www.sqlite.org/index.html) to keep it simple.
     - Beneath the questions is a description for each table
 
