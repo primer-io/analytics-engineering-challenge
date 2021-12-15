@@ -25,8 +25,7 @@ The challenge for Analytics Engineer is comprised of two parts
 
 1. What is the authorization rate per processor?
     
-    $$Authorisation\space Rate =
-    \frac{Count\space of\space successfully\space authorised\space payments} {Count\space of\space all\space payments\space where\space status\space ≠\space PENDING}$$
+    **Authorisation Rate = Count of successfully authorised payments ÷ Count of all payments where status ≠ PENDING**
     
     A payment is considered successfully authorised if the status is one of 
     
